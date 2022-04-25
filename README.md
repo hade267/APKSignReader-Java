@@ -1,6 +1,6 @@
 # APKSignReader-Java
 
-A modified [apksig](https://github.com/AndnixSH/apksig) tool to read signature from APK file. This is purposely used for APKKiller, supports signature scheme v1 and up to v4. Unlike aimardcr's APKSignReader which can run for Android only, this tool can run on PC
+A modified [apksig](https://github.com/AndnixSH/apksig) tool to read signature from APK file. This is purposely used for [APKKiller](https://github.com/aimardcr/APKKiller), supports signature scheme v1 and up to v4. Unlike aimardcr's APKSignReader which can run for Android only, this tool can run on PC
 
 ### Requirements
 - Java 8 or above
