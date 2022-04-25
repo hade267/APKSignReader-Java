@@ -6,6 +6,11 @@ A modified [apksig](https://github.com/AndnixSH/apksig) tool to read signature f
 - Java 8 or above
 - Windows/Linux/macOS (Only tested on Windows)
 
+### Usage
+`java -jar apksig.jar (apk file)`
+
+![Screenshot](https://i.imgur.com/ELs1UUh.png)
+
 ### How to build JAR file
 
 Use IntelliJ
